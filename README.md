@@ -25,8 +25,6 @@
 
 ---
 
-### 📈 Stats & Contact
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHAO1122&layout=compact&theme=radical) |
-| :--- |
+### 📫 Contact
 
-- 📫 How to reach me: [jiahaot1122@gmail.com]
+- How to reach me: [jiahaot1122@gmail.com]
